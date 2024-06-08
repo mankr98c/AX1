@@ -1,0 +1,6 @@
+../CAN/Src/CAN.c:15:6:getCANData	1
+../CAN/Src/CAN.c:20:6:TX_DataCAN	5
+../CAN/Src/CAN.c:36:6:processCAN1	1
+../CAN/Src/CAN.c:39:6:initCan	1
+../CAN/Src/CAN.c:44:6:processCAN2	1
+../CAN/Src/CAN.c:48:6:HAL_FDCAN_RxFifo0Callback	3

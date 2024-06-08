@@ -1,0 +1,5 @@
+../FOTA/Src/TML_FOTA.c:13:6:fotaReqestKey	1
+../FOTA/Src/TML_FOTA.c:19:6:fotaUpdate	1
+../FOTA/Src/TML_FOTA.c:23:6:COTA_Update	1
+../FOTA/Src/TML_FOTA.c:27:6:update	2
+../FOTA/Src/TML_FOTA.c:50:6:ReadF_Loc	3

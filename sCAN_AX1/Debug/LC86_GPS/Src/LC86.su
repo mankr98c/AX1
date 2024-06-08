@@ -1,0 +1,8 @@
+../LC86_GPS/Src/LC86.c:18:6:L86_setup	16	static
+../LC86_GPS/Src/LC86.c:25:6:L86_uart_Init	384	static
+../LC86_GPS/Src/LC86.c:83:5:splitWithComma	24	static
+../LC86_GPS/Src/LC86.c:92:8:convertToDegrees	48	static
+../LC86_GPS/Src/LC86.c:98:6:init_GPSData	16	static
+../LC86_GPS/Src/LC86.c:121:6:ProcessData	5296	dynamic
+../LC86_GPS/Src/LC86.c:285:6:L86_RxHalfCpltCallback	8	static
+../LC86_GPS/Src/LC86.c:295:6:L86_RxCpltCallback	8	static

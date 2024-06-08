@@ -1,0 +1,5 @@
+../COMMON/Src/fifo.c:14:6:initQueue	16	static
+../COMMON/Src/fifo.c:20:5:isFull	16	static
+../COMMON/Src/fifo.c:24:5:isEmpty	16	static
+../COMMON/Src/fifo.c:29:6:enqueue	16	static
+../COMMON/Src/fifo.c:43:6:dequeue	16	static

@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm33.h:2378:26:__NVIC_GetPriorityGrouping	1
+../Drivers/CMSIS/Include/core_cm33.h:2390:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm33.h:2587:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm33.h:2634:26:NVIC_EncodePriority	2
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_gpio.h:283:22:LL_GPIO_SetPinMode	3
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_gpio.h:496:22:LL_GPIO_SetPinPull	3
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_gpio.h:894:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_gpio.h:923:22:LL_GPIO_ResetOutputPin	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_exti.h:1612:22:LL_EXTI_SetEXTISource	1
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:885:22:LL_AHB2_GRP1_EnableClock	1
+../Core/Src/gpio.c:42:6:MX_GPIO_Init	1

@@ -1,0 +1,7 @@
+../NANDFLASH/Src/FLASH_MEM.c:13:15:caculateAddress	24	static
+../NANDFLASH/Src/FLASH_MEM.c:17:6:ReadFromNANDFLASH	24	static
+../NANDFLASH/Src/FLASH_MEM.c:24:6:WriteInToNANDFLASH	24	static
+../NANDFLASH/Src/FLASH_MEM.c:29:6:writeL86Data	24	static
+../NANDFLASH/Src/FLASH_MEM.c:63:6:deleteL86Data	8	static
+../NANDFLASH/Src/FLASH_MEM.c:101:6:resetL86Data	4	static
+../NANDFLASH/Src/FLASH_MEM.c:116:6:readL86Data	16	static

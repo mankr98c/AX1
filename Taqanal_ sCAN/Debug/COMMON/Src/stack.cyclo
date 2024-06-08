@@ -1,0 +1,5 @@
+../COMMON/Src/stack.c:10:6:initializeStack	1
+../COMMON/Src/stack.c:15:5:full	1
+../COMMON/Src/stack.c:20:5:empty	1
+../COMMON/Src/stack.c:25:6:push	2
+../COMMON/Src/stack.c:39:6:pop	2

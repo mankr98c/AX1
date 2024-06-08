@@ -1,0 +1,2 @@
+../Core/Src/bootloader.c:26:6:Application_jump	4
+../Core/Src/bootloader.c:59:6:setupBootLoader	1

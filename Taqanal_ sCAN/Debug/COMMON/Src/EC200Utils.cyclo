@@ -1,0 +1,13 @@
+../COMMON/Src/EC200Utils.c:13:6:wait_for_response	4
+../COMMON/Src/EC200Utils.c:31:6:EC200_Transmit	2
+../COMMON/Src/EC200Utils.c:38:6:EC200_Init	20
+../COMMON/Src/EC200Utils.c:141:6:getIMEI	2
+../COMMON/Src/EC200Utils.c:155:5:getSignal	2
+../COMMON/Src/EC200Utils.c:169:6:getOperatorName	2
+../COMMON/Src/EC200Utils.c:184:6:get_MCC_MNC_CellID	2
+../COMMON/Src/EC200Utils.c:201:6:setupEc200	3
+../COMMON/Src/EC200Utils.c:231:7:E200_RxHAlfCpltCallback	1
+../COMMON/Src/EC200Utils.c:235:7:Ec200_RxEventCallback	1
+../COMMON/Src/EC200Utils.c:239:7:E200_RXCpltCallback	1
+../COMMON/Src/EC200Utils.c:242:6:switchIdle	2
+../COMMON/Src/EC200Utils.c:251:6:enableIdle	2

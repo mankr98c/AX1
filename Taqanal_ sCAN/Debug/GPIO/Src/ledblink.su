@@ -1,0 +1,7 @@
+../GPIO/Src/ledblink.c:13:6:togleState	16	static
+../GPIO/Src/ledblink.c:16:6:handleGps	8	static
+../GPIO/Src/ledblink.c:23:6:handleGsm	8	static
+../GPIO/Src/ledblink.c:30:6:handlePwr	8	static
+../GPIO/Src/ledblink.c:37:6:blinkLed	16	static
+../GPIO/Src/ledblink.c:70:6:FUpdate	4	static
+../GPIO/Src/ledblink.c:76:6:FupdateC	8	static

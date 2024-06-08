@@ -1,0 +1,15 @@
+../FOTA/Src/Flash.c:20:10:GetSector	5
+../FOTA/Src/Flash.c:41:10:GetBank	4
+../FOTA/Src/Flash.c:70:10:Check_Program	4
+../FOTA/Src/Flash.c:92:6:HAL_FLASH_ERASE	2
+../FOTA/Src/Flash.c:112:6:HAL_FLASH_Write_Buff	3
+../FOTA/Src/Flash.c:138:6:Erase_sectors	4
+../FOTA/Src/Flash.c:159:5:FLASH_Read_Buff	3
+../FOTA/Src/Flash.c:173:6:WriteF_SKey	3
+../FOTA/Src/Flash.c:184:6:WriteF_CKey	3
+../FOTA/Src/Flash.c:198:6:writeF_CP	1
+../FOTA/Src/Flash.c:216:6:WriteF_IMEI	1
+../FOTA/Src/Flash.c:223:6:WriteF_FOTAVer	1
+../FOTA/Src/Flash.c:230:6:ReadF_sKey	3
+../FOTA/Src/Flash.c:250:6:ReadF_cKey	3
+../FOTA/Src/Flash.c:273:6:CopyFlashSectors	2

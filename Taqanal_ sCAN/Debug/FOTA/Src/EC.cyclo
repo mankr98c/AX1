@@ -1,0 +1,6 @@
+../FOTA/Src/EC.c:18:6:clearResBuff	1
+../FOTA/Src/EC.c:21:6:EC200_HTTP_POST	2
+../FOTA/Src/EC.c:35:6:EC200_Data_Fetch	8
+../FOTA/Src/EC.c:81:6:EC200_File_save	3
+../FOTA/Src/EC.c:116:6:EC200_Key_Update	9
+../FOTA/Src/EC.c:172:6:EC200_Config_Update	8

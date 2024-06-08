@@ -1,0 +1,7 @@
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_spi.h:543:22:LL_SPI_Enable	16	static
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_spi.h:960:22:LL_SPI_StartMasterTransfer	16	static
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_spi.h:1048:22:LL_SPI_SetStandard	16	static
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_spi.h:1604:22:LL_SPI_DisableNSSPulseMgt	16	static
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:885:22:LL_AHB2_GRP1_EnableClock	24	static
+../Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_bus.h:1504:22:LL_APB1_GRP1_EnableClock	24	static
+../Core/Src/spi.c:28:6:MX_SPI3_Init	336	static

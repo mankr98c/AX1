@@ -1,0 +1,2 @@
+../COMMON/Src/map.c:17:6:addToMap	32	static
+../COMMON/Src/map.c:40:5:getFromMap	24	static

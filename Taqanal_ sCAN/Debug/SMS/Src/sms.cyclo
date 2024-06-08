@@ -1,0 +1,9 @@
+../SMS/Src/sms.c:13:6:clear_sms_resp_buff	1
+../SMS/Src/sms.c:17:6:SMS_Init	9
+../SMS/Src/sms.c:54:6:SMS_Read	2
+../SMS/Src/sms.c:62:6:SMS_Send	3
+../SMS/Src/sms.c:76:6:onMessage	1
+../SMS/Src/sms.c:79:6:SMS_Delete	3
+../SMS/Src/sms.c:91:6:getMessageStatus	1
+../SMS/Src/sms.c:94:6:setMessageStatus	1
+../SMS/Src/sms.c:98:6:SMS_FSend	2
